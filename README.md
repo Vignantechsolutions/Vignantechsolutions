@@ -1,4 +1,4 @@
-🚀 Vignan Tech Solutions
+*Vignan Tech Solutions*
 Innovating Intelligent Solutions for the Digital Future
 <p align="center"> <img src="https://img.shields.io/badge/Company-Vignan%20Tech%20Solutions-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Focus-AI%20%7C%20Web%20%7C%20Data%20Science-orange?style=for-the-badge" /> <img src="https://img.shields.io/badge/Location-Karnataka%2C%20India-green?style=for-the-badge" /> </p>
 🏢 About Vignan Tech Solutions
