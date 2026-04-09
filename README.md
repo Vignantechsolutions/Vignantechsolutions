@@ -6,7 +6,7 @@
 
 📍 Kalaburagi, Karnataka, India  
 📧 vignantechsolutions@gmail.com  
-🌐 https://vignantechsolutions.com  
+🌐 https://vignan-tech-solutions-letwa11uc-vignantechsolutions-projects.vercel.app/  
 
 ---
 
